@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 11175,
         "status": 1,
         "language": "vi",
@@ -14,13 +14,13 @@
         ],
         "version": 1,
         "internalName": "AnimeHayProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 15460,
         "status": 1,
         "language": "vi",
@@ -35,13 +35,13 @@
         ],
         "version": 1,
         "internalName": "BluphimProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/BluphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/BluphimProvider.cs3",
         "name": "BluphimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 13401,
         "status": 1,
         "language": "vi",
@@ -53,13 +53,13 @@
         ],
         "version": 2,
         "internalName": "HHPandaProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/HHPandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hotphimvn.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 15269,
         "status": 1,
         "language": "vi",
@@ -74,13 +74,13 @@
         ],
         "version": 1,
         "internalName": "HotphimProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/HotphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/HotphimProvider.cs3",
         "name": "HotphimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 13736,
         "status": 0,
         "language": "vi",
@@ -95,12 +95,12 @@
         ],
         "version": 2,
         "internalName": "MotchillProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/MotchillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/MotchillProvider.cs3",
         "name": "MotchillProvider"
     },
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 27824,
         "status": 1,
         "language": "vi",
@@ -115,12 +115,12 @@
         ],
         "version": 2,
         "internalName": "NguonPhimProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/NguonPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/NguonPhimProvider.cs3",
         "name": "NguonPhimProvider"
     },
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 15498,
         "status": 1,
         "language": "vi",
@@ -132,13 +132,13 @@
         ],
         "version": 1,
         "internalName": "NsfwProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/NsfwProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/NsfwProvider.cs3",
         "name": "NsfwProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 14974,
         "status": 1,
         "language": "vi",
@@ -153,13 +153,13 @@
         ],
         "version": 2,
         "internalName": "PhimLongTiengProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 15004,
         "status": 1,
         "language": "vi",
@@ -174,13 +174,13 @@
         ],
         "version": 1,
         "internalName": "PhimmoichillProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/PhimmoichillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.cloudstream.vn",
         "fileSize": 12207,
         "status": 1,
         "language": "vi",
@@ -195,7 +195,7 @@
         ],
         "version": 2,
         "internalName": "SubnhanhProvider",
-        "url": "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/SubnhanhProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/SubnhanhProvider.cs3",
         "name": "SubnhanhProvider"
     }
 ]
