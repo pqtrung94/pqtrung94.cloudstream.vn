@@ -14,7 +14,7 @@
         ],
         "version": 1,
         "internalName": "AnimeHayProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
@@ -35,7 +35,7 @@
         ],
         "version": 1,
         "internalName": "BluphimProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/BluphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/BluphimProvider.cs3",
         "name": "BluphimProvider"
     },
     {
@@ -53,7 +53,7 @@
         ],
         "version": 2,
         "internalName": "HHPandaProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/HHPandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
@@ -74,7 +74,7 @@
         ],
         "version": 1,
         "internalName": "HotphimProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/HotphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/HotphimProvider.cs3",
         "name": "HotphimProvider"
     },
     {
@@ -95,7 +95,7 @@
         ],
         "version": 2,
         "internalName": "MotchillProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/MotchillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/MotchillProvider.cs3",
         "name": "MotchillProvider"
     },
     {
@@ -115,7 +115,7 @@
         ],
         "version": 2,
         "internalName": "NguonPhimProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/NguonPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/NguonPhimProvider.cs3",
         "name": "NguonPhimProvider"
     },
     {
@@ -132,7 +132,7 @@
         ],
         "version": 1,
         "internalName": "NsfwProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/NsfwProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/NsfwProvider.cs3",
         "name": "NsfwProvider"
     },
     {
@@ -153,7 +153,7 @@
         ],
         "version": 2,
         "internalName": "PhimLongTiengProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     },
     {
@@ -174,7 +174,7 @@
         ],
         "version": 1,
         "internalName": "PhimmoichillProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/PhimmoichillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
     },
     {
@@ -192,10 +192,11 @@
             "Anime",
             "TvSeries",
             "Movie"
+            
         ],
         "version": 2,
         "internalName": "SubnhanhProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/mail/SubnhanhProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.cloudstream.vn/main/SubnhanhProvider.cs3",
         "name": "SubnhanhProvider"
     }
 ]
